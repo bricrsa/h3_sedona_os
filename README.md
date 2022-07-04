@@ -2,7 +2,7 @@
 Ordnance Survey data with H3 and Sedona
 
 - Setup cluster to use Apache Sedona
-- Source data from public OS data, highlighting all UK based properties
+- Source data from [public OS data](https://www.ordnancesurvey.co.uk/business-government/products/open-uprn), highlighting all UK based properties
 - Index data with H3
 - Find overlap of properties using H3
 - Iterate through those for higher density and lower density property areas
